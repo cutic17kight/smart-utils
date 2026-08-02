@@ -1,0 +1,2 @@
+# smart-utils
+rust project
